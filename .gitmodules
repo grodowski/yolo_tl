@@ -1,0 +1,6 @@
+[submodule "basic-yolo-keras"]
+	path = basic-yolo-keras
+	url = git@github.com:experiencor/basic-yolo-keras.git
+[submodule "bstld"]
+	path = bstld
+	url = git@github.com:bosch-ros-pkg/bstld.git
