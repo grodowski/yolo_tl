@@ -1,6 +1,0 @@
-[submodule "basic-yolo-keras"]
-	path = basic-yolo-keras
-	url = ./basic-yolo-keras
-[submodule "bstld"]
-	path = bstld
-	url = ./bstld/
